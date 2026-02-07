@@ -11,7 +11,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC)](https://tailwindcss.com/)
 
-[Live Demo](#) • [Video Demo](#) • [Documentation](#)
+[Live Demo](https://codementor-ai-psi.vercel.app) • [Video Demo](#) • [Documentation](#)
 
 </div>
 
