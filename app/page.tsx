@@ -121,7 +121,7 @@ export default function Home() {
         <div className="text-center">
           <div className="w-16 h-16 mx-auto mb-4 flex items-center justify-center animate-pulse">
             <img
-              src="/logo.png"
+              src="/logo-transparent.png"
               alt="CodeMentor AI"
               className="w-16 h-16 object-contain"
             />
@@ -152,7 +152,7 @@ export default function Home() {
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 flex items-center justify-center">
                 <img
-                  src="/logo.png"
+                  src="/logo-transparent.png"
                   alt="CodeMentor AI"
                   className="w-10 h-10 object-contain"
                 />
@@ -224,7 +224,7 @@ export default function Home() {
               <div className="text-center max-w-lg px-6">
                 <div className="w-24 h-24 mx-auto mb-6 flex items-center justify-center">
                   <img
-                    src="/logo.png"
+                    src="/logo-transparent.png"
                     alt="CodeMentor AI"
                     className="w-24 h-24 object-contain drop-shadow-2xl"
                   />

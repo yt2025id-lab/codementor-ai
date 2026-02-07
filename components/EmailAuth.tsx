@@ -69,7 +69,7 @@ export default function EmailAuth({ onSuccess, onBack }: EmailAuthProps) {
           <div className="flex justify-center mb-8">
             <div className="w-20 h-20 flex items-center justify-center">
               <img
-                src="/logo.png"
+                src="/logo-transparent.png"
                 alt="CodeMentor AI"
                 className="w-20 h-20 object-contain drop-shadow-2xl"
               />
