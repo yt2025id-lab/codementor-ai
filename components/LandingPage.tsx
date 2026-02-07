@@ -23,7 +23,7 @@ export default function LandingPage({ onGetStarted }: LandingPageProps) {
         {/* Floating 3D Logos */}
         <div className="absolute top-20 left-10 w-64 h-64 opacity-10 animate-float-slow">
           <img
-            src="/logo-transparent.png"
+            src="/logo.png"
             alt=""
             className="w-full h-full object-contain transform rotate-12 scale-150"
             style={{ filter: 'blur(1px)' }}
@@ -31,7 +31,7 @@ export default function LandingPage({ onGetStarted }: LandingPageProps) {
         </div>
         <div className="absolute top-40 right-20 w-48 h-48 opacity-10 animate-float-medium">
           <img
-            src="/logo-transparent.png"
+            src="/logo.png"
             alt=""
             className="w-full h-full object-contain transform -rotate-12 scale-125"
             style={{ filter: 'blur(2px)' }}
@@ -39,7 +39,7 @@ export default function LandingPage({ onGetStarted }: LandingPageProps) {
         </div>
         <div className="absolute bottom-32 left-1/4 w-56 h-56 opacity-10 animate-float-fast">
           <img
-            src="/logo-transparent.png"
+            src="/logo.png"
             alt=""
             className="w-full h-full object-contain transform rotate-45"
             style={{ filter: 'blur(1px)' }}
@@ -47,7 +47,7 @@ export default function LandingPage({ onGetStarted }: LandingPageProps) {
         </div>
         <div className="absolute bottom-20 right-1/3 w-40 h-40 opacity-10 animate-float-slow">
           <img
-            src="/logo-transparent.png"
+            src="/logo.png"
             alt=""
             className="w-full h-full object-contain transform -rotate-6"
             style={{ filter: 'blur(2px)' }}
@@ -68,7 +68,7 @@ export default function LandingPage({ onGetStarted }: LandingPageProps) {
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 flex items-center justify-center">
                 <img
-                  src="/logo-transparent.png"
+                  src="/logo.png"
                   alt="CodeMentor AI"
                   className="w-10 h-10 object-contain drop-shadow-lg"
                 />
@@ -103,7 +103,7 @@ export default function LandingPage({ onGetStarted }: LandingPageProps) {
               {/* Main logo with 3D effect */}
               <div className="relative animate-float-hero">
                 <img
-                  src="/logo-transparent.png"
+                  src="/logo.png"
                   alt="CodeMentor AI"
                   className="w-36 h-36 mx-auto object-contain relative z-10"
                   style={{
