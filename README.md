@@ -1,4 +1,4 @@
-# 🤖 CodeMentor AI
+# CodeMentor AI
 
 <div align="center">
 
@@ -17,46 +17,46 @@
 
 ---
 
-## 🎯 The Problem
+## The Problem
 
 Generic AI assistants suggest code in **their** style, not yours:
-- ❌ You waste **5-10 minutes** per response translating code
-- ❌ Manual style conversion breaks your flow
-- ❌ Inconsistent coding patterns across your codebase
-- ❌ Frustrating back-and-forth with AI
+- You waste **5-10 minutes** per response translating code
+- Manual style conversion breaks your flow
+- Inconsistent coding patterns across your codebase
+- Frustrating back-and-forth with AI
 
-## ✨ The Solution
+## The Solution
 
 CodeMentor AI **learns and adapts** to your unique coding style:
-- ✅ **15+ pattern detectors** (naming, quotes, functions, types, etc.)
-- ✅ **Instant analysis** in under 2 seconds
-- ✅ **Copy-paste ready** code suggestions
-- ✅ **Zero manual edits** needed
-- ✅ **300% faster** workflow
+- **15+ pattern detectors** (naming, quotes, functions, types, etc.)
+- **Instant analysis** in under 2 seconds
+- **Copy-paste ready** code suggestions
+- **Zero manual edits** needed
+- **300% faster** workflow
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🧠 Style Learning
+### Style Learning
 - Real-time analysis of your coding patterns
 - Persistent style profile per user
 - Supports all programming languages
 - GitHub repository import
 
-### 💬 Smart AI Chat
+### Smart AI Chat
 - Powered by Gemini 2.0 Flash
 - Context-aware suggestions
 - Style-matched code generation
 - Monaco editor integration
 
-### 📊 Impact Tracking
+### Impact Tracking
 - Time saved metrics
 - Before/After comparisons
 - Learning journal
 - Pattern confidence scores
 
-### 🎨 Premium UI/UX
+### Premium UI/UX
 - Custom cursor effects
 - 3D animated logo background
 - Glassmorphism design
@@ -64,7 +64,7 @@ CodeMentor AI **learns and adapts** to your unique coding style:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: Next.js 15 (App Router)
 - **Language**: TypeScript 5.0
@@ -75,7 +75,7 @@ CodeMentor AI **learns and adapts** to your unique coding style:
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 - Node.js 18+
@@ -106,7 +106,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🎬 How It Works
+## How It Works
 
 ### 1. **Paste Your Code**
 Import from GitHub or paste any code snippet. CodeMentor instantly analyzes your codebase.
@@ -119,7 +119,7 @@ Every AI response perfectly matches YOUR coding style. Copy, paste, done!
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Landing Page
 ![Landing Page](docs/screenshots/landing.png)
@@ -135,18 +135,18 @@ Every AI response perfectly matches YOUR coding style. Copy, paste, done!
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 
 Watch our 3-minute demo video showcasing:
 - Problem demonstration
 - Solution walkthrough
 - WOW FACTOR features
 
-[📺 Watch Demo Video](#)
+[Watch Demo Video](#)
 
 ---
 
-## 🏆 Hackathon Submission
+## Hackathon Submission
 
 **Event**: Gemini 3 AI Hackathon
 **Track**: Developer Tools
@@ -155,15 +155,15 @@ Watch our 3-minute demo video showcasing:
 
 ### Judging Criteria Coverage
 
-✅ **Innovation**: First AI assistant that adapts to individual coding styles
-✅ **Technical Implementation**: Real-time pattern detection + Gemini 2.0 integration
-✅ **User Experience**: Premium UI with custom cursor, 3D effects, smooth animations
-✅ **Practical Impact**: 300% faster workflow, eliminates manual style translation
-✅ **Polish**: Production-ready with email auth, metrics tracking, demo features
+- **Innovation**: First AI assistant that adapts to individual coding styles
+- **Technical Implementation**: Real-time pattern detection + Gemini 2.0 integration
+- **User Experience**: Premium UI with custom cursor, 3D effects, smooth animations
+- **Practical Impact**: 300% faster workflow, eliminates manual style translation
+- **Polish**: Production-ready with email auth, metrics tracking, demo features
 
 ---
 
-## 📚 API Reference
+## API Reference
 
 ### Style Analysis
 ```typescript
@@ -188,19 +188,19 @@ POST /api/chat
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Google Gemini](https://ai.google.dev/) for the powerful AI API
 - [Next.js](https://nextjs.org/) team for the amazing framework
@@ -209,7 +209,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact
+## Contact
 
 - **GitHub**: [@yt2025id-lab](https://github.com/yt2025id-lab)
 - **Email**: [contact@codementor-ai.com](mailto:contact@codementor-ai.com)
@@ -219,8 +219,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**⭐ Star this repo if you find it helpful!**
+**Star this repo if you find it helpful!**
 
-Made with ❤️ by YT2025 ID Lab | Powered by [Gemini 2.0](https://ai.google.dev/)
+Made with love by YT2025 ID Lab | Powered by [Gemini 2.0](https://ai.google.dev/)
 
 </div>
