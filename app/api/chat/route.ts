@@ -43,7 +43,7 @@ ${lastMessage.content}
 
 ${styleProfile ? "\nRemember: Adapt your response to THEIR style, not a generic style!" : "Note: No style profile yet. Provide general but helpful advice."}`;
 
-    const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-exp" });
+    const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
 
     const result = await model.generateContent(systemPrompt);
     const response = result.response;

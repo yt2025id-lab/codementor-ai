@@ -270,7 +270,7 @@ export default function Home() {
         </div>
 
         {/* Right: Chat + Style Profile */}
-        <div className="w-[500px] flex flex-col">
+        <div className="w-[500px] flex flex-col min-h-0">
           {/* Style Profile at top */}
           <StyleProfile profile={styleProfile} summary={styleSummary} />
 
@@ -278,7 +278,7 @@ export default function Home() {
           <ImpactMetrics messageCount={messages.length} />
 
           {/* Chat Panel */}
-          <div className="flex-1">
+          <div className="flex-1 min-h-0 overflow-hidden">
             <ChatPanel
               styleProfile={styleProfile}
               styleSummary={styleSummary}
